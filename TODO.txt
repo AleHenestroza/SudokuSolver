@@ -1,0 +1,3 @@
+TODO-1: Allow users to input custom boards
+TODO-2: A GUI to visualize the Sudoku Board
+TODO-3: Colorize output
